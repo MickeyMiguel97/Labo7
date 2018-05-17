@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Labo7</string>
+    <string name="lblregistrar">lblRegistrar</string>
+    <string name="lblConsultar">lblConsultar</string>
+    <string name="lblconsultars">lblConsultarS</string>
+    <string name="dui">dui</string>
+    <string name="nombre">nombre</string>
+</resources>
